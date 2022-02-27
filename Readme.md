@@ -1,1 +1,1 @@
-# Netflix Ui
+# Flutter Netflix Responsive UI Starter Project
